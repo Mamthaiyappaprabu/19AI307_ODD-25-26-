@@ -54,4 +54,6 @@ public class Main
 
 
 ## RESULT:
+Thus, the Java program to print a simple message was executed successfully.
+
 
